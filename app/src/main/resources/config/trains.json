@@ -1,0 +1,1 @@
+[{"id":"DEL-KOL","name":"DELHI-KOLKATA-P2P","stations":[{"id":"DEL","name":"Delhi","arrivalTime":[2025,5,13,19,45,11,615371200],"departureTime":[2025,5,13,20,5,11,615371200]},{"id":"KOL","name":"Kolkata","arrivalTime":[2025,5,13,19,45,11,616372000],"departureTime":[2025,5,13,20,5,11,616372000]}]}]
